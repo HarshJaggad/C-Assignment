@@ -13,7 +13,7 @@ Follow the installation instructions provided on the GCC website for your specif
 If you haven't already, you can clone the repository to your local machine using the following command:
 
 ```bash
-git clone <repository_url>
+git clone  https://github.com/HarshJaggad/C-Assignment.git
 ```
 
 ## Step 3: Navigate to the Directory
@@ -21,7 +21,7 @@ git clone <repository_url>
 Change your current working directory to the one containing the C file. If you cloned the repository, it might look like this:
 
 ```bash
-cd <repository_directory>
+cd C-Assignment
 ```
 
 
