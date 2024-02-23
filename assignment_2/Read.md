@@ -1,25 +1,41 @@
-# Vowel Counting Program
 
-This C program counts the number of vowels in a given string using both an inline function and a regular function. It then measures the system time taken for each approach and provides a comparison table for size and time.
+## How to Run
 
-## Prerequisites
+### Prerequisites
+- Ensure you have a C compiler installed (e.g., GCC).
+- Open a terminal or command prompt.
 
-Make sure you have a C compiler installed on your system if you hav'nt downloaded the C Compiler no worries run and compile the code in C Compiler Online.
+### Steps
 
-## How to Run and Compile Code Online
+1. **Clone the Repository:**
+   - Clone this repository to your local machine using the following command:
 
-### Steps:
+     ```bash
+     git clone https://github.com/your-username/your-repository.git
+     ```
 
-1. Copy the code and paste
-   
-2. Online Compiler open in your browser and paste the code, run code
-    - https://www.programiz.com/c-programming/online-compiler/
+   - Alternatively, download the ZIP file and extract it to a local directory.
 
-3. View Output
-    - ENTER STRING: HarshJaggad
-    - Using Inline Function:
-    - Number of Vowels: 3
-    - System Time Taken: 0.000000 seconds
-    - Without using inline Function:
-    - Number of Vowels: 3
-    - System time taken: 0.000000 seconds
+2. **Navigate to the Code Directory:**
+   - Open a terminal or command prompt and navigate to the directory containing the C code:
+
+     ```bash
+     cd path/to/your/code/directory
+     ```
+
+3. **Compile the Code:**
+   - Compile the C code using a C compiler (e.g., GCC):
+
+     ```bash
+     gcc tree.c -o tree_operations
+     ```
+
+4. **Run the Executable:**
+   - Execute the compiled program:
+
+     ```bash
+     ./tree_operations
+     ```
+
+5. **Choose Operation:**
+   - Follow the on-screen instructions to choose from the available operations (Insert Node, Calculate Tree Height, Free Tree).
